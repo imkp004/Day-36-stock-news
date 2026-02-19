@@ -2,6 +2,7 @@ from datetime import datetime, timedelta
 import requests
 import smtplib
 
+# Can add muntiple stock and company name inside a list and execute
 STOCK = "TSLA"
 COMPANY_NAME = "Tesla Inc"
 
